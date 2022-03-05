@@ -2,13 +2,11 @@
 
 ## Docs
 
-— Inside Playdate
-https://sdk.play.date/1.9.0/
+- [Inside Playdate SDK](https://sdk.play.date/)
 
 ## Resources
 
-— sayhiben/awesome-playdate: A list of awesome resources for Playdate game development and the Playdate SDK
-https://github.com/sayhiben/awesome-playdate
+- [A list of awesome resources for Playdate game development and the Playdate SDK](https://github.com/sayhiben/awesome-playdate)
 
 ## Tutorials
 
