@@ -1,3 +1,3 @@
-# playdate-hello-world
+# playdate-learning
 
-*"hello world!" for playdate*
+*Learning how to make games for [Playdate](https://play.date)*
