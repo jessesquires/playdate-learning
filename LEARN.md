@@ -11,6 +11,13 @@
 - [SDK Tutorials for Beginners - Playdate Developer Forum](https://devforum.play.date/t/sdk-tutorials-for-beginners/3563)
 - [Pulp Pong - Dev Tutorial - Playdate Developer Forum](https://devforum.play.date/t/pulp-pong-dev-tutorial/2315)
 
+## Open source games
+
+- [PickPackPup, a Season One classic](https://github.com/NicMagnier/PickPackPup)
+- [Factory Farming, an automation & logistics game](https://github.com/timboe/FactoryFarming)
+- [Sketch, Share, Solve, a Playdate nonogram](https://github.com/veu/sketch-share-solve)
+- [You Cannot Go Back, a dungeon exploration game written in C](https://github.com/timboe/YouCannotGoBack)
+
 ## Examples
 
 - [Playdate Examples](https://github.com/notpeter/playdate-examples)
