@@ -17,6 +17,7 @@
 - [Factory Farming, an automation & logistics game](https://github.com/timboe/FactoryFarming)
 - [Sketch, Share, Solve, a Playdate nonogram](https://github.com/veu/sketch-share-solve)
 - [You Cannot Go Back, a dungeon exploration game written in C](https://github.com/timboe/YouCannotGoBack)
+- [Hidey Spot, a holiday adventure made in the Pulp editor](https://github.com/mrgan/hidey-spot)
 
 ## Examples
 
