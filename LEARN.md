@@ -37,4 +37,5 @@
 
 ## Other
 
+- [Swift.org — Byte-sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
 - [playdate-reverse-engineering: Unofficial Playdate reverse-engineering notes/tools](https://github.com/jaames/playdate-reverse-engineering)
