@@ -11,6 +11,12 @@
 - [SDK Tutorials for Beginners - Playdate Developer Forum](https://devforum.play.date/t/sdk-tutorials-for-beginners/3563)
 - [Pulp Pong - Dev Tutorial - Playdate Developer Forum](https://devforum.play.date/t/pulp-pong-dev-tutorial/2315)
 
+## SquidGod
+
+- [The Beginner's Guide to Lua for Game Development by SquidGod](https://squidgod.itch.io/lua-for-game-development)
+- [SquidGodDev / Repositories](https://github.com/SquidGodDev?tab=repositories&q=playdate-game)
+- [The Complete Beginners Guide to Playdate Game Development - YouTube](https://youtube.com/watch?v=UZ04rk3lLqU)
+
 ## Open source games
 
 - [PickPackPup, a Season One classic](https://github.com/NicMagnier/PickPackPup)
